@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason and I'm a second year Ryerson University computer science student from Toronto, Canada!
+My name is Jason Truong and I'm a second year Ryerson University computer science student from Toronto, Canada!
 
 Coding Instructor @ Code Ninjas
 
