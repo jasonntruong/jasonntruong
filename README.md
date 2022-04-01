@@ -4,7 +4,7 @@ My name is Jason Truong and I'm a second year Ryerson University computer scienc
 
 💻 Work Experience
 - Incoming Mobile Software Developer Intern @ Entrust [Summer 2022]
-- Coding Instructor @ Code Ninjas [Summer 2021]
+- Coding Instructor @ Code Ninjas [Summer 2021 - Summer 2022]
 - VP Communications @ [Ryerson Computer Science Course Union](https://www.instagram.com/ryersoncscu/) [Summer 2021]
 
 👦 About me
