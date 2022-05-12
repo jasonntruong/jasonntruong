@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason Truong and I'm an incoming third year Ryerson University computer science student from Toronto, Canada!
+My name is Jason Truong and I'm an incoming third year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 💻 Work Experience
 - Mobile Software Developer Intern @ Entrust [Summer 2022 - Present]
