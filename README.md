@@ -3,6 +3,7 @@
 My name is Jason Truong and I'm an incoming third year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 💻 Work Experience
+- Incoming Software Developer Intern @ TD Bank [Fall 2022]
 - Mobile Software Developer Intern @ Entrust [Summer 2022 - Present]
 - VP Communications @ [Ryerson Computer Science Course Union](https://www.instagram.com/ryersoncscu/) [Summer 2021 - Present]
 - Coding Instructor @ Code Ninjas [Summer 2021 - Summer 2022]
