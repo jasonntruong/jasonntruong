@@ -12,4 +12,4 @@ My name is Jason Truong and I'm a third year Toronto Metropolitan (Ryerson) Univ
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for summer 2023 co-op opportunities
 - 📫 Reach me via email or LinkedIn: jason.truong@ryerson.ca || https://www.linkedin.com/in/jasonn-truong/
-- 💬 Visit my portfolio website: http://www.jason-truong.com
+- 💬 Visit my portfolio website: https://www.jason-truong.com
