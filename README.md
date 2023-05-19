@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason Truong and I'm a third year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
+My name is Jason Truong and I'm a fourth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 💻 Work Experience
 - Junior Software Developer Intern @ TD Bank [Summer 2023]
