@@ -6,7 +6,7 @@ My name is Jason Truong and I'm a fourth year Toronto Metropolitan (Ryerson) Uni
 - Junior Software Developer Intern @ TD Bank [Summer 2023]
 - Software Developer Intern @ TD Bank [Fall 2022]
 - Mobile Software Developer Intern @ Entrust [Summer 2022]
-- VP Communications @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2021 - Present]
+- VP Operations @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2023 - Present]
 - Coding Instructor @ Code Ninjas [Summer 2021 - Summer 2022]
 
 👦 About me
