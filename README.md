@@ -3,7 +3,7 @@
 My name is Jason Truong and I'm a fourth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 💻 Work Experience
-- Incoming Software Engineer Intern @ Coursera [Fall 2023]
+- Software Engineer Intern @ Coursera [Fall 2023]
 - Junior Software Developer Intern @ GetQuorum [Summer 2023]
 - Software Developer Intern @ TD Bank [Fall 2022]
 - Mobile Software Developer Intern @ Entrust [Summer 2022]
