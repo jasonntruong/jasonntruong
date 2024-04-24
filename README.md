@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Jason Truong and I'm a fourth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
+My name is Jason Truong and I'm an incoming fifth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 💻 Work Experience
+- Incoming Software Developer Intern @ theScore [Summer 2024]
 - Software Engineer Intern @ Coursera [Fall 2023]
 - Junior Software Developer Intern @ GetQuorum [Summer 2023]
 - Software Developer Intern @ TD Bank [Fall 2022]
@@ -10,7 +11,7 @@ My name is Jason Truong and I'm a fourth year Toronto Metropolitan (Ryerson) Uni
 - VP Operations @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2023 - Present]
 
 👦 About me
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for Summer 2024 co-op opportunities
+- 🌱 I’m currently learning Vite
+- 🤔 I’m looking for new grad opportunities
 - 📫 Reach me via email or LinkedIn: jason.truong@torontomu.ca || https://www.linkedin.com/in/jasonn-truong/
 - 💬 Visit my portfolio website: https://www.jason-truong.com
