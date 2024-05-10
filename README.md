@@ -5,12 +5,12 @@ My name is Jason Truong and I'm an incoming fifth year Toronto Metropolitan (Rye
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonntruong&label=Profile%20views&color=0e75b6&style=flat" alt="jasonntruong" /> </p>
 
 💻 Work Experience
-- Incoming Software Developer Intern @ theScore [Summer 2024]
+- Software Developer Intern @ theScore [Summer 2024]
 - Software Engineer Intern @ Coursera [Fall 2023]
 - Junior Software Developer Intern @ GetQuorum [Summer 2023]
 - Software Developer Intern @ TD Bank [Fall 2022]
 - Mobile Software Developer Intern @ Entrust [Summer 2022]
-- VP Operations @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2023 - Present]
+- Systems Administrator @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2023 - Present] (Prev. Co-President, VP Operations, VP Communications)
 
 👦 About me
 - 🌱 I’m currently learning Vite
