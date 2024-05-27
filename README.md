@@ -13,7 +13,7 @@ My name is Jason Truong and I'm an incoming fifth year Toronto Metropolitan (Rye
 - Systems Administrator @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2023 - Present] (Prev. Co-President, VP Operations, VP Communications)
 
 👦 About me
-- 🌱 I’m currently learning Vite
+- 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for new grad opportunities
 - 📫 Reach me via email or LinkedIn: jason.truong@torontomu.ca || https://www.linkedin.com/in/jasonn-truong/
 - 💬 Visit my portfolio website: https://www.jason-truong.com
