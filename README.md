@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason Truong and I'm an incoming fifth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
+My name is Jason Truong and I'm a fifth year Toronto Metropolitan (Ryerson) University computer science student from Toronto, Canada!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonntruong&label=Profile%20views&color=0e75b6&style=flat" alt="jasonntruong" /> </p>
 
