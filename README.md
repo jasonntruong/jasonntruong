@@ -11,7 +11,7 @@ My name is Jason Truong and I'm a computer science new graduate from Toronto Met
 - Junior Software Developer Intern @ GetQuorum [Summer 2023]
 - Software Developer Intern @ TD Bank [Fall 2022]
 - Mobile Software Developer Intern @ Entrust [Summer 2022]
-- Systems Administrator @ [TMU Computer Science Course Union](https://www.instagram.com/tmu_cscu/) [Summer 2024 - Summer 2025] (Prev. Co-President, VP Operations, VP Communications)
+- Systems Administrator @ [TMU Computer Science Course Union](https://www.tmucscu.com) [Summer 2024 - Summer 2025] (Prev. Co-President, VP Operations, VP Communications)
 
 👦 About me
 - 🌱 I’m currently learning how to reverse engineer Unity games to create mods
