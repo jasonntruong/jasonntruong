@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason Truong and I'm a computer science new graduate from Toronto Metropolitan (Ryerson) University in Toronto, Canada!
+My name is Jason Truong and I'm a Software Engineer based in Toronto, Canada!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonntruong&label=Profile%20views&color=0e75b6&style=flat" alt="jasonntruong" /> </p>
 
