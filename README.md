@@ -5,7 +5,7 @@ My name is Jason Truong and I'm a Software Engineer based in Toronto, Canada!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonntruong&label=Profile%20views&color=0e75b6&style=flat" alt="jasonntruong" /> </p>
 
 💻 Work Experience
-- Software Engineer II @ Shopify [Fall 2025]
+- Software Engineer @ Shopify [Fall 2025]
 - Software Engineer Intern @ Shopify [Summer 2025]
 - Software Developer Intern @ theScore [Summer 2024]
 - Software Engineer Intern @ Coursera [Fall 2023]
